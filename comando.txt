@@ -1,0 +1,12 @@
+si quiero actulizar lo que subi solo coloco
+
+git add .
+
+
+luego confirmo la actulzacion mas el nombre descriptivo
+
+git commit -m "actulice tal cosa"
+
+luego  pusheamos 
+
+git push origin main
